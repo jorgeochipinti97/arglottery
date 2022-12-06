@@ -24,7 +24,7 @@ export default function Home() {
         </Box>
         <Divider sx={{ my: 1, backgroundColor: 'white' }} />
 
-        <Box display='flex' justifyContent='space-around' sx={{ mt: 2, border: '1px solid black' }}>
+        <Box display='flex' justifyContent='space-around' sx={{ mt: 2 }}>
           <Box sx={{ mb: 2 }}>
             <Accordion sx={{ backgroundColor: 'white' }}>
               <AccordionSummary
