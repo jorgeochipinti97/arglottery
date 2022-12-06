@@ -14,7 +14,7 @@ export default function Home() {
     <>
       <Layout>
         <Box sx={{ minWidth: '101vw', backgroundColor: '#ffb703', pt: 1, pb: 1 }} display='flex' justifyContent='center'>
-          <Typography variant='subtitle1' sx={{ color: 'black', fontWeight: 'bold' }}>SORTEO AIRPODS PRO 2! 23/12</Typography>
+          <Typography variant='subtitle1' sx={{ color: 'black', fontWeight: 'bold' }}>SORTEO AIRPODS PRO 2! 30/12</Typography>
         </Box>
         <Box display='flex' justifyContent='center'>
           <Image src='https://res.cloudinary.com/digb4uo6f/image/upload/v1670088228/Disen%CC%83o_sin_ti%CC%81tulo_4_zh44dg.png'
